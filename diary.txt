@@ -1,2 +1,3 @@
 Day 1: Git Diary
 Day 2: Git Diary
+Day 3: Git Diary
